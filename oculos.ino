@@ -1,7 +1,6 @@
-#define trigPin 2       // Pin TRIG do Sensor Ultrassonico 
+#define trigPin 2      // Pin TRIG do Sensor Ultrassonico 
 #define echoPin 3      // Pin ECHO  do Sensor Ultrassonico 
-#define buzzerPin 4   // Pin + Buzzer
-
+#define buzzerPin 4    // Pin + Buzzer
 #define MAX_DIST   400   // alcance máximo do HC-SR04 em cm
 #define TIMEOUT_US 30000 // 30 ms ≈ 500 cm de ida+volta
 
@@ -75,4 +74,3 @@ void loop() {
   }
 
 }
- 
