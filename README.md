@@ -72,7 +72,7 @@ O sensor ultrassônico HC-SR04 emite pulsos de som e mede o tempo de retorno do 
 
 ## Código
 
-Todo o firmware encontra-se em oculos.ino. 
+Todo o firmware encontra-se em touca.ino. 
 
 
 
